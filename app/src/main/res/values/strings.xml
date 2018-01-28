@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hello Android</string>
+    <string name="email">www.udacity.com</string>
+    <string name="phone">650-555-5555</string>
+    <string name="address">2465 Latham\n St Mountain View\n CA 94043</string>
+    <string name="company">Udacity</string>
+    <string name="slogan">Learn.Think.Do</string>
+    <string name="encouraging_slogan1">Open your mind!</string>
+    <string name="encouraging_slogan2">Discover your future!</string>
+</resources>
